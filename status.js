@@ -2,7 +2,7 @@ const express = require('express');
 const Rcon = require('rcon');
 
 const app = express();
-const port = 8000;
+const port = 8000; //Port to access this status page
 
 //connection info
 const palWorld = {}

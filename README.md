@@ -23,4 +23,10 @@ Start `node status.js`
 | `palWorld.port`     | Palworld server RCONPort                                                   |
 | `palWorld.password` | Palworld Server AdminPassword                                              |
 | `msg.contact`       | Who and how to contact if server is down                                   |
-| `msg.connectInfo`   | Hostname or IP and port for connecting the Palworld server for new uesers. |
+| `msg.connectInfo`   | Hostname or IP and port for connecting the Palworld server for new users.  |
+
+## Issues
+
+* RCON issue after Steam PalWorld Dedicated Server v0.1.5.0 update
+  * Currently, the temporary fix is adding "-RCONPort=25575" to start parameters.
+

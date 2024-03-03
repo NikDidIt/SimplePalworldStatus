@@ -27,6 +27,6 @@ Start `node status.js`
 
 ## Issues
 
-* RCON issue after Steam PalWorld Dedicated Server v0.1.5.0 update
+* RCON issue after Steam PalWorld Dedicated Server v0.1.5.0 update - Fixed is v0.1.5.1
   * Currently, the temporary fix is adding "-RCONPort=25575" to start parameters.
 
